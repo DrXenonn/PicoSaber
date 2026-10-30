@@ -57,7 +57,3 @@ Built as a university project for a *Systems Programming* course.
 ## Tech stack
 
 Raspberry Pi Pico · MPU6050 · I2C · USB Serial · Unity · C#
-
-## Author
-
-**<Your Name>** · [GitHub](https://github.com/<your-username>)
